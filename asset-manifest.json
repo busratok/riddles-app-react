@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/riddles-app-react/static/css/main.6476324a.css",
+    "main.js": "/riddles-app-react/static/js/main.25b3afdf.js",
+    "index.html": "/riddles-app-react/index.html",
+    "main.6476324a.css.map": "/riddles-app-react/static/css/main.6476324a.css.map",
+    "main.25b3afdf.js.map": "/riddles-app-react/static/js/main.25b3afdf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6476324a.css",
+    "static/js/main.25b3afdf.js"
+  ]
+}
